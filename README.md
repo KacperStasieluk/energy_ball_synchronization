@@ -8,7 +8,7 @@ Energy Ball Synchronization is a creative and interactive desktop application bu
 
 ## Installation
 
-To use the JSON Validator, follow these steps:
+To use the Energy Ball Synchronization, follow these steps:
 
 1. Ensure that Python is installed on your system. If not, download and install it from [python.org](https://www.python.org/downloads/).
 2. Download the source code for the Energy Ball Synchronization from this repository.
